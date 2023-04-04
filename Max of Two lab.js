@@ -1,4 +1,4 @@
-/**ax of Two
+/**Max of Two
 Difficulty
 Easy
 
